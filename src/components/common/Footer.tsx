@@ -68,7 +68,7 @@ export default function Footer() {
 
 			<div className='max-w-7xl mx-auto px-6 py-4 text-center text-sm space-y-1'>
 				<p>
-					Proyecto final creado por estudiantes de{' '}
+					Proyecto final creado por estudiantes de
 					<p className='font-semibold'>SoyHenry</p>
 				</p>
 				<p>© 2025 Héroes Cercanos. Todos los derechos reservados.</p>
